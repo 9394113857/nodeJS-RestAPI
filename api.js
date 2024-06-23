@@ -84,7 +84,12 @@ app.delete('/mobiles/:id', (req, res) => {
 // To run the server with a specific port (e.g., 6000):
 // Open a terminal/command prompt and navigate to the directory containing api.js
 // Run the following command, replacing 6000 with your desired port number:
+
+// Default command:-
+// node api.js // Use this it is default command
 // node api.js 6000
+
+// Here MySQL Host is used
 
 // Access the API endpoints in a web browser or using an HTTP client:
 // Open a web browser or use an HTTP client to make requests to http://localhost:6000/mobiles and other defined routes
