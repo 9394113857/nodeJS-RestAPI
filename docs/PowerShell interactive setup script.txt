@@ -20,7 +20,7 @@ do {
         "2" {
             # Activate the virtual environment
             ./flask-project-env/Scripts/Activate
-            Write-Output "Virtual environment 'flask-project-env' activated."
+            Write-Output "Virtual environment 'Nodejs-project-env' activated."
         }
         "3" {
             # Install packages from requirements.txt
